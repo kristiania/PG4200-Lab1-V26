@@ -1,0 +1,21 @@
+# Lab practice 1
+
+---
+## Exercise 1: Implement algorithm _Linear Search_ on data structure _Array_ in Java.
+
+- Create a class named _Search_ which will initially only have one instance variable of type Array.
+
+
+- Create a constructor inside the _Search_ class with one parameter of type Array.
+
+
+- Create a method _linearSearch_ that finds a value in the array and returns its posisiton. That is the method takes one int typed parameter as an argument...the value you wish to find in your Array. The method returns an int value: the position in the array if you find a match. Otherwise it returns -1.
+
+
+- Create a method _stepsLinearSearch_ that counts the number of steps it takes for _linearSearch_ to find a match for a given value. The method takes one int typed parameter as an argument...the value you wish to find in your Array. The method returns an int value: the number of steps it takes to find or not find a match.
+
+
+- You may find code for constructing a _Search_-object and invoking the methods in the compact class _main.java_.  More information on compact class in java25 here: https://openjdk.org/jeps/512
+
+
+- Food for thoughts: is there a faster way to search an arbitrary Array? What assumptions on our data structure must be made to make an algorithm go faster?
