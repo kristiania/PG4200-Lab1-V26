@@ -18,7 +18,7 @@ Create a new project in IntelliJ with the following information:
 ---
 ## Task: Implement algorithm _Linear Search_ on data structure _Array_ in Java.
 
-- Create a class named _Search_ which will initially only have one instance variable of type Array.
+- In this folder (`src/main/java/assignment`), create a class named _Search_ which will initially only have one instance variable of type Array.
 
 
 - Create a constructor inside the _Search_ class with one parameter of type Array for setting the instance variable.
